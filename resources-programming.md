@@ -1,0 +1,64 @@
+# Some useful resources I discovered on this journey
+
+## HTML & CSS
+[CSS Specificity Calculator](https://specificity.keegan.st/)  
+[CSS Selector Exercise](https://css-diner.netlify.app/)  
+[CSS Almanac](https://css-tricks.com/almanac/)  
+[CSS w3schools tutorial](https://www.w3schools.com/css/default.asp)  
+[CSS Minify Tool](https://www.cleancss.com/css-minify/)  
+[CSS Flexbox Cheatsheet](https://darekkay.com/flexbox-cheatsheet/)  
+[CSS Flexbox practice game](http://flexboxfroggy.com/)  
+[CSS Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
+[CSS Browser Support Reference (w3s)](https://www.w3schools.com/cssref/css3_browsersupport.asp)  
+[CSS Browser Support Reference (caniuse)](https://caniuse.com/)  
+[CSS Prefixes](http://shouldiprefix.com/)  
+[CSS Transitions & Transforms](https://thoughtbot.com/blog/transitions-and-transforms)  
+[CSS animations](https://animate.style/)  
+[Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)  
+[CSS GRID practice game](http://cssgridgarden.com/)  
+[CSS GRID cheatsheet](https://grid.malven.co/)  
+
+
+## JS
+(Russian) [Modern JS guide](https://learn.javascript.ru/)  
+
+## React
+
+
+## MEN of the MERN stack
+
+
+## Data Structures & Algorithms
+
+
+## Design
+[Color Picker](https://paletton.com/)  
+[Fonts (Google)](https://fonts.google.com/)  
+[Bootstrap](https://getbootstrap.com/)  
+[Free templates](http://www.mashup-template.com/templates.html)  
+[Free templates](https://startbootstrap.com/templates)  
+[Free templates](https://cruip.com/)  
+
+## Others
+[ZTM resources](https://zerotomastery.io/resources/) - lots of useful stuff from the author of cool ZTM courses on Udemy  
+[FreeCodeCamp](https://www.freecodecamp.org/)  
+[w3schools](https://www.w3schools.com/)  
+
+## Articles
+[40 maps that explain the internet](https://www.vox.com/a/internet-maps)  
+[Submarine Cable Map](https://www.submarinecablemap.com/#)  
+[What is CDN](https://www.cloudflare.com/en-gb/learning/cdn/what-is-a-cdn/)  
+
+## Courses
+[The Complete Web Developer in 2021: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)  
+[MERN eCommerce From Scratch](https://www.udemy.com/course/mern-ecommerce/)  
+[The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)  
+[Computer Science 101: Master the Theory Behind Programming](https://www.udemy.com/course/computer-science-101-master-the-theory-behind-programming/)  
+[50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/)  
+[JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/)  
+[Complete Web & Mobile Designer in 2021: UI/UX, Figma, +more](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/)  
+[Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)  
+[Software Engineering 101: Plan and Execute Better Software](https://www.udemy.com/course/software-engineering-101/)  
+[The Complete Junior to Senior Web Developer Roadmap (2021)](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/)  
+[JavaScript: The Advanced Concepts (2021)](https://www.udemy.com/course/advanced-javascript-concepts/)  
+[The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)  
