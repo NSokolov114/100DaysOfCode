@@ -49,16 +49,24 @@
 [Submarine Cable Map](https://www.submarinecablemap.com/#)  
 [What is CDN](https://www.cloudflare.com/en-gb/learning/cdn/what-is-a-cdn/)  
 
-## Courses
-[The Complete Web Developer in 2021: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)  
-[MERN eCommerce From Scratch](https://www.udemy.com/course/mern-ecommerce/)  
-[The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)  
-[Computer Science 101: Master the Theory Behind Programming](https://www.udemy.com/course/computer-science-101-master-the-theory-behind-programming/)  
+## Courses: JS, CSS, HTML, React
+[The Complete Web Developer in 2021](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)  
 [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/)  
 [JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/)  
+[The Complete JavaScript Course 2021](https://www.udemy.com/course/the-complete-javascript-course/)  
 [Complete Web & Mobile Designer in 2021: UI/UX, Figma, +more](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/)  
-[Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)  
-[Software Engineering 101: Plan and Execute Better Software](https://www.udemy.com/course/software-engineering-101/)  
+[MERN eCommerce From Scratch](https://www.udemy.com/course/mern-ecommerce/)  
 [The Complete Junior to Senior Web Developer Roadmap (2021)](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/)  
 [JavaScript: The Advanced Concepts (2021)](https://www.udemy.com/course/advanced-javascript-concepts/)  
+
+
+## Courses: other
+[The Complete Networking Fundamentals Course](https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start)  
+[Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)  
+[Software Engineering 101: Plan and Execute Better Software](https://www.udemy.com/course/software-engineering-101/)  
 [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)  
+[Computer Science 101: Master the Theory Behind Programming](https://www.udemy.com/course/computer-science-101-master-the-theory-behind-programming/)  
+[React Testing with Jest and Enzyme](https://www.udemy.com/course/react-testing-with-jest-and-enzyme)  
+[NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide)  
+[Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide)  
+[React and Typescript: Build a Portfolio Project](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project)  

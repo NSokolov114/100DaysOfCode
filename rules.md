@@ -58,7 +58,7 @@
 6.9. Brilliant (for brain) (3/7)   
 
 ### Start Date
-May 25, 2021
+May 26, 2021
 
 ## Why do I need this challenge?
 I've just quit my full-time job after 6 years of living by a schedule. I had to wake up at 6am 5/7 to go to work, go to bed early and walk at the least 10km to get to work and back home. I had to work, solve problems, manage myself and other people.  
