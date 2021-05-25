@@ -70,3 +70,13 @@
 [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide)  
 [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide)  
 [React and Typescript: Build a Portfolio Project](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project)  
+
+
+
+## Contents
+* [Rules](rules.md)
+* [Log](log.md)
+* [FAQ](FAQ.md) ???
+* [Coding Resources](resources-programming.md)
+* [Lifestyle Resources](resources-other.md)
+* [Ideas for Projects](ideas-for-projects.md)
