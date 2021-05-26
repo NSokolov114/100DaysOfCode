@@ -10,7 +10,9 @@
 [Yoga 15 website](https://yoga15.com/)  
 
 
+
 ## FOOD
+Chronometer app
 
 ## HABITS
 [The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It by Kelly McGonigal](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)  
@@ -18,6 +20,7 @@
 ## PC
 
 ## ENG
+Lexilize Flashcards app
 
 ## JOB
 [milewalk Academy (Andrew LaCivita)](https://www.milewalkacademy.com/)  
