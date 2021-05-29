@@ -3,9 +3,10 @@
 ### Game - Hangman
 I wrote hangman in Python, now I can implement the same logic in a web page. I also have the dictionary ready.
 ### Game - Match Pairs
-Classic Pairs game, but with WoW:TBC icons.  
-TBC is coming in a week, it might be interesting.  
+Classic Pairs game, but with WoW:TBC icons. Or WoW in general  
+It might be interesting.  
 Different classes, different icons.
+### 
 
 
 ## Contents

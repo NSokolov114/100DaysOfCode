@@ -27,7 +27,7 @@
 3.1. Wake up - 630±6  
 3.2. Interval Fasting - eating window 1130±30-1930±30  
 3.3. Bed - 2230±30  
-3.4. PC - gaming after coding and sport  
+3.4. PC - before 8am or after coding and sport  
 3.5. Screens - before 2130
 
 ### DO all day long
@@ -58,7 +58,7 @@
 6.9. Brilliant (for brain) (3/7)   
 
 ### Start Date
-May 27, 2021
+May 30, 2021
 
 ## Why do I need this challenge?
 I've just quit my full-time job after 6 years of living by a schedule. I had to wake up at 6am 5/7 to go to work, go to bed early and walk at the least 10km to get to work and back home. I had to work, solve problems, manage myself and other people.  
