@@ -6,7 +6,11 @@ I wrote hangman in Python, now I can implement the same logic in a web page. I a
 Classic Pairs game, but with WoW:TBC icons. Or WoW in general  
 It might be interesting.  
 Different classes, different icons.
-### 
+### Tracking / habit app
+An app where you can track how much time did you spend each day on different stuff.  
+Maybe with a rulebook and links to extra info.  
+A heat map of progress (like on GitHub, but 1 line for tracking 1 habit)  
+It's not convenient to track the time of activities on the go on web, so either make it very mobile friendly, on focus on the rulebook aspect.  
 
 
 ## Contents
