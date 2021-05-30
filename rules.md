@@ -17,7 +17,7 @@
 2.2. (15min) ENG Speaking  
 2.3. (15min) Meditation  
 2.4. (15min) Yoga  
-2.5. (15min) Dance
+2.5. (15min) Dance  
 2.6. Exercises for Eyes  
 2.7. Dishes  
 2.8. Cold shower  
@@ -27,8 +27,8 @@
 3.1. Wake up - 630±6  
 3.2. Interval Fasting - eating window 1130±30-1930±30  
 3.3. Bed - 2230±30  
-3.4. PC - before 8am or after coding and sport  
-3.5. Screens - before 2130
+3.4. PC - < 8am or > coding and sport  
+3.5. Screens - < 2130
 
 ### DO all day long
 4.1. Limelight - behave myself  
