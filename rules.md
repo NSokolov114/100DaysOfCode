@@ -11,6 +11,7 @@
 1.1. (1h+) Coding  
 1.2. (1h+) Learning coding-related stuff  
 1.3. GitHub - 3 commits  
+1.4. (1h++) Foxminded Front-End course (posted to GitLab)
 
 ### Daily Tasks
 2.1. 9k steps  
@@ -58,7 +59,7 @@
 6.9. Brilliant (for brain) (3/7)   
 
 ### Start Date
-May 30, 2021
+June 7, 2021
 
 ## Why do I need this challenge?
 I've just quit my full-time job after 6 years of living by a schedule. I had to wake up at 6am 5/7 to go to work, go to bed early and walk at the least 10km to get to work and back home. I had to work, solve problems, manage myself and other people.  
