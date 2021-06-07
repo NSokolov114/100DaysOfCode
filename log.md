@@ -5,9 +5,9 @@ Finally I have quit my job at VNIIGAZ. I've been working there as a research sci
 I chose the courses I want to complete and a number of projects I can work on. Fixed the challenge rules and resources.  
 Signed up for front-end courses on foxminded. They do code review via GitLab, so my commits won't show there. I'll be coding on top of those courses.
 
-### Day 1: June 7, 2021
-
-**Links:** []()
+### (1) June 7, 2021
+Completed tasks 1.0 and 1.1 (foxminded).  
+T: CSS grid, CSS flexbox
 
 
 
