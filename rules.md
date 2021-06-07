@@ -50,7 +50,7 @@
 ### Weekly tasks (SUN to SAT)
 6.1. Sport (3/7)  
 6.2. Social event (1/7)  
-6.3. Photo event (1/7)  
+6.3. Photo session (1/7)  
 6.4. Post on LinkedIn (1/7)  
 6.5. Post on Instagram (1/7)  
 6.6. Upload to Unsplash (1/7)  
