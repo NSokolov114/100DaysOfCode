@@ -1,7 +1,11 @@
 # 100DaysOfCode - Log
 
 
-
+### (3) June 9, 2021
+Fixed task 1.1 (foxminded)  
+TIL: [flex: 1 1 auto](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)  
+T: CSS grid, CSS flexbox  
+Comments: no electricity (storm)
 ### (2) June 8, 2021
 Fixed task 1.1 (foxminded)  
 TIL: [grid template areas](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-areas)  
