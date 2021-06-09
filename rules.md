@@ -28,8 +28,7 @@
 3.1. Wake up - 630±6  
 3.2. Interval Fasting - eating window 1130±30-1930±30  
 3.3. Bed - 2230±30  
-3.4. PC - < 8am or > coding and sport  
-3.5. Screens - < 2130
+3.4. Screens - < 2130
 
 ### DO all day long
 4.1. Limelight - behave myself  
@@ -46,6 +45,7 @@
 5.6. Politics RU  
 5.7. Whining  
 5.8. TV  
+5.9. PC games ('till I finish the complete webdev course on Udemy)  
 
 ### Weekly tasks (SUN to SAT)
 6.1. Sport (3/7)  
