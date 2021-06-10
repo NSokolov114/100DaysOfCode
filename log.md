@@ -1,6 +1,9 @@
 # 100DaysOfCode - Log
 
-
+### (4) June 10, 2021
+Completed task 1.2 (foxminded)  
+TIL: [nth-of-type selector](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-of-type)  
+T: CSS, CSS grid, CSS flexbox  
 ### (3) June 9, 2021
 Fixed task 1.1 (foxminded)  
 TIL: [flex: 1 1 auto](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)  
