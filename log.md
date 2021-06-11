@@ -1,5 +1,8 @@
 # 100DaysOfCode - Log
-
+### (5) June 11, 2021
+Fixed task 1.2 (foxminded)  
+TIL: [CSS object-fit](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit), [rem/em for fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)  
+T: CSS, CSS images, CSS fonts  
 ### (4) June 10, 2021
 Completed task 1.2 (foxminded)  
 TIL: [nth-of-type selector](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-of-type)  
