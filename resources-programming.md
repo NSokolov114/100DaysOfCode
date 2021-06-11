@@ -1,6 +1,7 @@
 # Some useful resources I discovered on this journey
 
 ## HTML & CSS
+[HTML/CSS Google Style Guide](https://google.github.io/styleguide/htmlcssguide.html)  
 [CSS Specificity Calculator](https://specificity.keegan.st/)  
 [CSS Selector Exercise](https://css-diner.netlify.app/)  
 [CSS Almanac](https://css-tricks.com/almanac/)  
@@ -51,6 +52,7 @@
 
 ## Courses: JS, CSS, HTML, React
 [The Complete Web Developer in 2021](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)  
+[The Complete 2021 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)  
 [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/)  
 [JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/)  
 [The Complete JavaScript Course 2021](https://www.udemy.com/course/the-complete-javascript-course/)  
