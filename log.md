@@ -1,4 +1,19 @@
 # 100DaysOfCode - Log
+
+### (9) June 15, 2021
+Finished task 1.3 (foxminded)  
+TIL: CSS only carousel [1](https://www.youtube.com/watch?v=z74ExMz-cWU), [2](https://css-tricks.com/css-only-carousel/)  
+T: CSS selectors 
+### (8) June 14, 2021
+Worked on task 1.3 (foxminded)  
+TIL: [CSS selectors](https://sites.google.com/site/nattoiselab/home/1_client/css3/css_), CSS selector [specificity](http://qnimate.com/dive-into-css-specificity/) and [priority](https://marksheet.io/css-priority.html)   
+T: CSS selectors  
+### (7) June 13, 2021
+Started working on fresh FCC course: building portfolio website using Bootstrap 5 and SASS  
+TIL: Using bash and npm to set up a project and install the packages  
+T: SASS, Bootstrap 5, npm 
+### (6) June 12, 2021
+Break, watching YouTube  
 ### (5) June 11, 2021
 Fixed task 1.2 (foxminded)  
 TIL: [CSS object-fit](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit), [rem/em for fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)  
