@@ -1,5 +1,10 @@
 # 100DaysOfCode - Log
 
+
+### (10) June 16, 2021
+Fixed task 1.3 (foxminded)  
+TIL: CSS only carousel 
+T: CSS selectors 
 ### (9) June 15, 2021
 Finished task 1.3 (foxminded)  
 TIL: CSS only carousel [1](https://www.youtube.com/watch?v=z74ExMz-cWU), [2](https://css-tricks.com/css-only-carousel/)  
