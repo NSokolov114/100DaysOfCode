@@ -21,6 +21,9 @@ Simple, but can make it cute and unique - I haven't been able to find something 
 ### Visualisation for all sorting algorithms
 There are a few good websites already, so this one is just for me. But it'd help me to really understand how they work.
 
+### Portfolio website
+Well, I need a personal website showing what I can do, not just GitHub.
+
 ## Contents
 * [Rules](rules.md)
 * [Log](log.md)
