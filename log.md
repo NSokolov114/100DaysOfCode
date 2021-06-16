@@ -3,7 +3,7 @@
 
 ### (10) June 16, 2021
 Fixed task 1.3 (foxminded)  
-TIL: CSS only carousel 
+TIL: CSS only carousel  
 T: CSS selectors 
 ### (9) June 15, 2021
 Finished task 1.3 (foxminded)  
