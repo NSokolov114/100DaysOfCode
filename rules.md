@@ -14,7 +14,7 @@
 1.4. (1h++) Foxminded Front-End course (posted to GitLab)
 
 ### Daily Tasks
-2.1. 9k steps  
+2.1. 7k steps  
 2.2. (15min) ENG Speaking  
 2.3. (15min) Meditation  
 2.4. (15min) Yoga  
@@ -27,8 +27,9 @@
 ### DO at the fixed time
 3.1. Wake up - 500±5  
 3.2. Interval Fasting - eating window 1100±30-1900±30  
-3.3. Bed - 2100±30  
-3.4. Screens - < 2000
+3.3. PC games - after 2.1-2.5 & 6.1  
+3.4. Screens - < 2000  
+3.5. Bed - 2100±30
 
 ### DO all day long
 4.1. Limelight - behave myself  
@@ -45,7 +46,6 @@
 5.6. Politics RU  
 5.7. Whining  
 5.8. TV  
-5.9. PC games ('till I finish the complete webdev course on Udemy)  
 
 ### Weekly tasks (SUN to SAT)
 6.1. Sport (3/7)  
