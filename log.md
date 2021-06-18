@@ -1,6 +1,13 @@
 # 100DaysOfCode - Log
 
-
+### (12) June 18, 2021
+Rewrote task 1.3 (foxminded) from the scratch! Finally, it works as it's supposed to!  
+TIL: CSS only carousel  
+T: CSS selectors 
+### (11) June 17, 2021
+Trying to fix task 1.3 (foxminded). Can't make it work properly >_<  
+TIL: CSS only carousel  
+T: CSS selectors 
 ### (10) June 16, 2021
 Fixed task 1.3 (foxminded)  
 TIL: CSS only carousel  
