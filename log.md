@@ -1,5 +1,7 @@
 # 100DaysOfCode - Log
 
+### (13) June 19, 2021
+Saturday break, watching YouTube, reading articles
 ### (12) June 18, 2021
 Rewrote task 1.3 (foxminded) from the scratch! Finally, it works as it's supposed to!  
 TIL: CSS only carousel  
