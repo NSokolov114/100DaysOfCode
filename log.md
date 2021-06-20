@@ -1,5 +1,10 @@
 # 100DaysOfCode - Log
 
+
+### (14) June 20, 2021
+Started task 1.4 (foxminded)  
+TIL: [Normalize.css](http://rightblog.ru/2685), CSS Methodologies [1](https://afrench53198.medium.com/reusable-maintainable-and-modular-css-b0ffedf1c208), [2](https://www.creativebloq.com/css3/create-modular-and-scalable-css-9134351), [BEM](https://en.bem.info/)  
+T: Normalize.css, BEM  
 ### (13) June 19, 2021
 Saturday break, watching YouTube, reading articles
 ### (12) June 18, 2021
