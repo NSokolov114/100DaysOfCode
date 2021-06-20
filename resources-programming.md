@@ -18,6 +18,7 @@
 [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)  
 [CSS GRID practice game](http://cssgridgarden.com/)  
 [CSS GRID cheatsheet](https://grid.malven.co/)  
+[BEM (Block, Element, Modifier) Methodology](https://en.bem.info/)
 
 
 ## JS
@@ -36,14 +37,15 @@
 [Color Picker](https://paletton.com/)  
 [Fonts (Google)](https://fonts.google.com/)  
 [Bootstrap](https://getbootstrap.com/)  
-[Free templates](http://www.mashup-template.com/templates.html)  
-[Free templates](https://startbootstrap.com/templates)  
-[Free templates](https://cruip.com/)  
+[Free templates 1](http://www.mashup-template.com/templates.html)  
+[Free templates 2](https://startbootstrap.com/templates)  
+[Free templates 3](https://cruip.com/)  
+[Free photos](https://unsplash.com/)
 
 ## Others
-[ZTM resources](https://zerotomastery.io/resources/) - lots of useful stuff from the author of cool ZTM courses on Udemy  
 [FreeCodeCamp](https://www.freecodecamp.org/)  
 [w3schools](https://www.w3schools.com/)  
+[ZTM resources](https://zerotomastery.io/resources/) - lots of useful stuff from the author of cool ZTM courses on Udemy  
 
 ## Articles
 [40 maps that explain the internet](https://www.vox.com/a/internet-maps)  
