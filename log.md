@@ -1,6 +1,9 @@
 # 100DaysOfCode - Log
 
-
+### (15) June 21, 2021
+Trying to complete task 1.4 (foxminded)  
+TIL: [CSS text-overflow](https://css-tricks.com/almanac/properties/t/text-overflow/), [Truncating Multiple Line Text](https://css-tricks.com/line-clampin/)  
+T: BEM  
 ### (14) June 20, 2021
 Started task 1.4 (foxminded)  
 TIL: [Normalize.css](http://rightblog.ru/2685), CSS Methodologies [1](https://afrench53198.medium.com/reusable-maintainable-and-modular-css-b0ffedf1c208), [2](https://www.creativebloq.com/css3/create-modular-and-scalable-css-9134351), [BEM](https://en.bem.info/)  
