@@ -1,5 +1,9 @@
 # 100DaysOfCode - Log
 
+### (16) June 22, 2021
+Finished task 1.4 (foxminded)!  
+TIL: [CSS crossing text diagonally](https://stackoverflow.com/questions/14593415/how-to-strike-through-obliquely-with-css), [CSS border between elements](https://stackoverflow.com/questions/24792314/borders-only-between-elements)  
+T: BEM: making blocks!  
 ### (15) June 21, 2021
 Trying to complete task 1.4 (foxminded)  
 TIL: [CSS text-overflow](https://css-tricks.com/almanac/properties/t/text-overflow/), [Truncating Multiple Line Text](https://css-tricks.com/line-clampin/)  
