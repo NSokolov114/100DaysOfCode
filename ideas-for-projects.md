@@ -1,5 +1,6 @@
 # List of my ideas for projects
 
+
 ### Game - Hangman
 I wrote hangman in Python, now I can implement the same logic in a web page. I also have the dictionary ready.
 
@@ -23,6 +24,12 @@ There are a few good websites already, so this one is just for me. But it'd help
 
 ### Portfolio website
 Well, I need a personal website showing what I can do, not just GitHub.
+
+
+### Personal Photosite
+Simple (only HTML+CSS) but beautiful 1-page site showing a few of my photos represented on Unsplash.  
+Carousel - radio buttons, arrows left/right.  
+Why? Just to show off...
 
 ## Contents
 * [Rules](rules.md)
