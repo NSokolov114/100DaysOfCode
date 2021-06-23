@@ -1,5 +1,10 @@
 # 100DaysOfCode - Log
 
+
+### (17) June 23, 2021
+Fixing task 1.4 (foxminded)  
+TIL: [Tag for time](https://www.w3schools.com/tags/tag_time.asp)  
+T: BEM  
 ### (16) June 22, 2021
 Finished task 1.4 (foxminded)!  
 TIL: [CSS crossing text diagonally](https://stackoverflow.com/questions/14593415/how-to-strike-through-obliquely-with-css), [CSS border between elements](https://stackoverflow.com/questions/24792314/borders-only-between-elements)  
