@@ -10,8 +10,9 @@
 ### Code
 1.1. (1h+) Coding  
 1.2. (1h+) Learning coding-related stuff  
-1.3. GitHub - 3 commits  
-1.4. (1h++) Foxminded Front-End course (posted to GitLab)
+1.3. (1h++) Foxminded Front-End course (on private GitLab repository)  
+1.4. GitHub - commit(s)  
+1.5. CodeWars - solved JS kata(s)
 
 ### Daily Tasks
 2.1. 7k steps  
@@ -20,9 +21,7 @@
 2.4. (15min) Yoga  
 2.5. (15min) Dance  
 2.6. Exercises for Eyes  
-2.7. Dishes  
-2.8. Cold shower  
-2.9. Diary  
+2.7. Diary  
 
 ### DO at the fixed time
 3.1. Wake up - 500±5  
