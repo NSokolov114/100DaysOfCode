@@ -1,6 +1,9 @@
 # 100DaysOfCode - Log
 
-
+### (18) June 23, 2021
+Passed task 1.4 (foxminded). Repeating JS fundamentals (Udemy).  
+TIL: [JS object methods](https://www.w3schools.com/js/js_object_methods.asp), [JS array methods](https://www.w3schools.com/js/js_array_methods.asp)  
+T: JS  
 ### (17) June 23, 2021
 Fixing task 1.4 (foxminded)  
 TIL: [Tag for time](https://www.w3schools.com/tags/tag_time.asp)  
