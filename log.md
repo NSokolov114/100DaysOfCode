@@ -1,6 +1,12 @@
 # 100DaysOfCode - Log
 
-### (18) June 23, 2021
+### (20) June 26, 2021
+Saturday Break. Watching YouTube.
+### (19) June 25, 2021
+Repeating JS fundamentals (Udemy). Started task 1.5 (foxminded).  
+TIL: [Personal Preferences in Prettier](https://prettier.io/docs/en/options.html), User Snippets in VSCode, website templates.  
+T: JS, website template  
+### (18) June 24, 2021
 Passed task 1.4 (foxminded). Repeating JS fundamentals (Udemy).  
 TIL: [JS object methods](https://www.w3schools.com/js/js_object_methods.asp), [JS array methods](https://www.w3schools.com/js/js_array_methods.asp)  
 T: JS  
