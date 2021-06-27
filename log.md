@@ -1,5 +1,10 @@
 # 100DaysOfCode - Log
 
+
+### (21) June 27, 2021
+Repeating JS DOM manipulation (Udemy). Did layout for home page for  task 1.5 (foxminded).  
+TIL: Chrome debugger.  
+T: JS, website template, DOM  
 ### (20) June 26, 2021
 Saturday Break. Watching YouTube.
 ### (19) June 25, 2021
