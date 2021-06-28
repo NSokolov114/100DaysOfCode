@@ -1,6 +1,9 @@
 # 100DaysOfCode - Log
 
-
+### (22) June 28, 2021
+Repeating JS fundamentals (Udemy). 6h on task 1.5 (foxminded).  
+TIL: [Static background image](https://www.w3schools.com/cssref/pr_background-attachment.asp).  
+T: JS, CSS  
 ### (21) June 27, 2021
 Repeating JS DOM manipulation (Udemy). Did layout for home page for  task 1.5 (foxminded).  
 TIL: Chrome debugger.  
