@@ -24,11 +24,11 @@
 2.7. Diary  
 
 ### DO at the fixed time
-3.1. Wake up - 500±5  
+3.1. Wake up - 600±6  
 3.2. Interval Fasting - eating window 1100±30-1900±30  
 3.3. PC games - after 2.1-2.5 & 6.1  
 3.4. Screens - < 2000  
-3.5. Bed - 2100±30
+3.5. Bed - 2200±30
 
 ### DO all day long
 4.1. Limelight - behave myself  
