@@ -2,7 +2,7 @@
 
 ### (23) June 29, 2021
 Finished task 1.5 (foxminded).  
-TIL: [Glassmorphism CSS Generator](https://generator.ui.glass/).  
+TIL: [Glassmorphism CSS Generator](https://generator.ui.glass/), [Google Map API JS](https://developers.google.com/maps/documentation/javascript/overview).  
 T: JS, CSS  
 ### (22) June 28, 2021
 Repeating JS fundamentals (Udemy). 6h on task 1.5 (foxminded).  
