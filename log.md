@@ -1,5 +1,9 @@
 # 100DaysOfCode - Log
 
+### (23) June 29, 2021
+Finished task 1.5 (foxminded).  
+TIL: [Glassmorphism CSS Generator](https://generator.ui.glass/).  
+T: JS, CSS  
 ### (22) June 28, 2021
 Repeating JS fundamentals (Udemy). 6h on task 1.5 (foxminded).  
 TIL: [Static background image](https://www.w3schools.com/cssref/pr_background-attachment.asp).  
