@@ -1,5 +1,10 @@
 # 100DaysOfCode - Log
 
+
+### (24) June 30, 2021
+Passed task 1.5 (foxminded). Completed task 1.6 ToDo list (foxminded).   
+TIL: [CSS Filter](https://www.w3schools.com/cssref/css3_pr_filter.asp), [using webp images](https://css-tricks.com/using-webp-images/).  
+T: JS, CSS 
 ### (23) June 29, 2021
 Finished task 1.5 (foxminded).  
 TIL: [Glassmorphism CSS Generator](https://generator.ui.glass/), [Google Map API JS](https://developers.google.com/maps/documentation/javascript/overview).  
