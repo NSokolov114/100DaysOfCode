@@ -1,6 +1,6 @@
 # 100DaysOfCode - Log
 
-### (25) Juдн 1, 2021
+### (25) July 1, 2021
 Passed task 1.6 (foxminded). Codewars. Courses on Udemy.  
 TIL: [appearance](https://css-tricks.com/almanac/properties/a/appearance/), user-select: none for preventing double-click select, [Form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form).  
 T: JS, CSS 
