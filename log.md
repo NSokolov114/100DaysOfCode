@@ -1,5 +1,9 @@
 # 100DaysOfCode - Log
 
+### (26) July 2, 2021
+Passed task 1.7 (foxminded). Codewars. Courses on Udemy.  
+TIL: [box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow), [brightness](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/brightness()).  
+T: JS, CSS 
 ### (25) July 1, 2021
 Passed task 1.6 (foxminded). Codewars. Courses on Udemy.  
 TIL: [appearance](https://css-tricks.com/almanac/properties/a/appearance/), user-select: none for preventing double-click select, [Form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form).  
