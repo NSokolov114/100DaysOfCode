@@ -1,5 +1,15 @@
 # 100DaysOfCode - Log
 
+### (29) July 5, 2021
+Codewars. JS Course on Udemy. Theory for foxminded tasks on JS.  
+TIL: [JIT compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation), [DOM manipulation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents).  
+T: JS, DOM
+### (28) July 4, 2021
+Made a few loaders [html + css](https://github.com/NSokolov114/medium-projects/blob/main/my-loaders/index.html). Codewars. Courses on Udemy.  
+TIL: [css animation](https://www.w3schools.com/cssref/css3_pr_animation.asp), [css loaders](https://loading.io/css/).  
+T: JS, CSS 
+### (27) July 3, 2021
+Saturday break. Watching YouTube.
 ### (26) July 2, 2021
 Passed task 1.7 (foxminded). Codewars. Courses on Udemy.  
 TIL: [box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow), [brightness](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/brightness()).  
