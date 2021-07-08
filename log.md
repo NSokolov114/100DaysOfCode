@@ -1,5 +1,10 @@
 # 100DaysOfCode - Log
 
+
+### (29) July 5, 2021
+Codewars (437). JS Course on Udemy. Task 3.1 foxminded.  
+TIL: [Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API), working with [localStorage](https://gomakethings.com/saving-html-to-localstorage-with-vanilla-js/).  
+T: JS, DOM
 ### (30) July 6, 2021
 Heatwave, headache, no screens today.
 ### (29) July 5, 2021
