@@ -1,5 +1,7 @@
 # 100DaysOfCode - Log
 
+### (30) July 6, 2021
+Heatwave, headache, no screens today.
 ### (29) July 5, 2021
 Codewars. JS Course on Udemy. Theory for foxminded tasks on JS.  
 TIL: [JIT compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation), [DOM manipulation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents).  
