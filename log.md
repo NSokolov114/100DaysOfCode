@@ -1,6 +1,8 @@
 # 100DaysOfCode - Log
 
 
+### (34) July 10, 2021
+Saturday break, watching YouTube.
 ### (33) July 9, 2021
 Codewars (460). Fixed task 3.1 foxminded.  
 TIL: [SessionStorage](https://www.w3schools.com/jsref/prop_win_sessionstorage.asp), https on localhost using [ngrok](https://ngrok.com/). 
