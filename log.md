@@ -1,5 +1,10 @@
 # 100DaysOfCode - Log
 
+
+### (33) July 9, 2021
+Codewars (460). Fixed task 3.1 foxminded.  
+TIL: [SessionStorage](https://www.w3schools.com/jsref/prop_win_sessionstorage.asp), https on localhost using [ngrok](https://ngrok.com/). 
+T: JS, DOM, API
 ### (32) July 8, 2021
 Codewars (456). Task 3.1 foxminded (facebook API).  
 TIL: [Facebook SDK](https://developers.facebook.com/docs/facebook-login/web), https on localhost using [mkcert](https://github.com/FiloSottile/mkcert). 
