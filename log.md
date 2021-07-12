@@ -1,6 +1,9 @@
 # 100DaysOfCode - Log
 
-
+### (35) July 11, 2021
+Fixed task 3.1 foxminded. Again.  
+TIL: [Alternatives to jQuery](https://www.infoworld.com/article/3392876/3-javascript-libraries-to-replace-jquery.html), [async and defer](https://javascript.info/script-async-defer). 
+T: JS, DOM, API
 ### (34) July 10, 2021
 Saturday break, watching YouTube.
 ### (33) July 9, 2021
