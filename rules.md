@@ -2,9 +2,9 @@
 
 ## Main Commitment
 1. I will code for at least an hour every day for the next 100 days and push the code to GitHub.
-2. I will post on Instagram about my progress weekly using the hashtag #100DaysOfCode.
+2. I will update the [Log](log.md) with the day's coding progress.
 3. I will also do the #100DaysOfHealth challenge, 'cause sitting all day long is a bad idea.
-4. I will update the [Log](log.md) with the day's coding progress.
+4. I will post on Instagram about my progress weekly using the hashtag #100DaysOfCode.
 
 ## Bonus Rules
 ### Code
@@ -16,46 +16,40 @@
 
 ### Daily Tasks
 2.1. 7k steps  
-2.2. (15min) ENG Speaking  
-2.3. (15min) Meditation  
-2.4. (15min) Yoga  
-2.5. (15min) Dance  
-2.6. Exercises for Eyes  
-2.7. Diary  
+2.2. (60min) Workout / Activity  
+2.3. (15min) ENG Speaking  
+2.4. (15min) Dance  
+2.5. (15min) Yoga  
+2.6. (15min) Dance  
+2.7. (15min) ENG words  
+2.8. (15min) Slow breathing
 
-### DO at the fixed time
+
+### General
 3.1. Wake up - 600±6  
 3.2. Interval Fasting - eating window 1100±30-1900±30  
-3.3. PC games - after 2.1-2.5 & 6.1  
-3.4. Screens - < 2000  
-3.5. Bed - 2200±30
+3.3. 15min intervals while using screens (Workrave / Focus To-Do)  
+3.4. Bed - 2200±30
 
-### DO all day long
-4.1. Limelight - behave myself  
-4.2. Treat others decently  
-4.3. Chronometer - log food & activities  
-4.4. 10min intervals while using screens - Workrave or Focus To-Do app  
 
-### DO NOT DO all day long
+### DON'Ts
 5.1. Alcohol*  
 5.2. Bad Food*  
 5.3. Smoking  
 5.4. Sugary Drinks  
-5.5. Web Surfing  
+5.5. Mindless web Surfing  
 5.6. Politics RU  
-5.7. Whining  
+5.7. PC games  
 5.8. TV  
 
 ### Weekly tasks (SUN to SAT)
-6.1. Sport (3/7)  
-6.2. Social event (1/7)  
-6.3. Photo session (1/7)  
-6.4. Post on LinkedIn (1/7)  
-6.5. Post on Instagram (1/7)  
-6.6. Upload to Unsplash (1/7)  
-6.7. ENG Words (3/7)  
-6.8. Canada (3/7)  
-6.9. Brilliant (for brain) (3/7)   
+6.1. Smt social (1/7)  
+6.2. Photos (1/7)  
+6.3. LinkedIn (1/7)  
+6.4. Instagram (1/7)  
+6.5. Unsplash (1/7)  
+6.6. Diary (3/7)  
+
 
 ### Start Date
 June 7, 2021
