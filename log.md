@@ -1,7 +1,12 @@
 # 100DaysOfCode - Log
 
+
+### (37) July 13, 2021
+Codewars day (532, solved one lvl 4). Natours CSS project.  
+TIL: [XOR gate](https://en.wikipedia.org/wiki/XOR_gate), [async / defer scripts](https://learn.javascript.ru/script-async-defer)  
+T: JS, CSS
 ### (36) July 12, 2021
-Codewars (470). Passed task 3.1 foxminded. Natours CSS project.  
+Codewars (470). Tried to fix task 3.1 foxminded. Natours CSS project.  
 TIL: [CSS clip-path](https://css-tricks.com/almanac/properties/c/clip-path/), [CSS clip-path maker!](https://bennettfeely.com/clippy/)  
 T: API, CSS
 ### (35) July 11, 2021
