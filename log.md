@@ -1,6 +1,9 @@
 # 100DaysOfCode - Log
 
-
+### (38) July 14, 2021
+Codewars day (612). Natours CSS project. Deep dive into CSS behind the scenes.  
+TIL: [CSS Inheritance, Cascade, and Specificity](http://web.simmons.edu/~grovesd/comm244/notes/week4/css-concepts), [CSS value processing]()  
+T: JS, CSS
 ### (37) July 13, 2021
 Codewars day (532, solved one lvl 4). Natours CSS project.  
 TIL: [XOR gate](https://en.wikipedia.org/wiki/XOR_gate), [async / defer scripts](https://learn.javascript.ru/script-async-defer)  
