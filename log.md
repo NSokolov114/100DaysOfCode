@@ -1,5 +1,9 @@
 # 100DaysOfCode - Log
 
+### (40) July 16, 2021
+Codewars day (757). Natours CSS project. Sass and npm.  
+TIL: [Sass scss](https://sass-lang.com/documentation/syntax), [sass 7-1 pattern](https://sass-guidelin.es/#architecture)   
+T: JS, CSS, Sass, npm
 ### (39) July 15, 2021
 Codewars day (685). Natours CSS project. CSS behind the scenes.  
 TIL: [background clip](https://www.w3schools.com/cssref/css3_pr_background-clip.asp), [text with gradient](https://css-tricks.com/almanac/properties/b/background-clip/)   
