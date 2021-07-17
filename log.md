@@ -1,8 +1,12 @@
 # 100DaysOfCode - Log
 
+### (39) July 15, 2021
+Codewars day (685). Natours CSS project. CSS behind the scenes.  
+TIL: [background clip](https://www.w3schools.com/cssref/css3_pr_background-clip.asp), [text with gradient](https://css-tricks.com/almanac/properties/b/background-clip/)   
+T: JS, CSS
 ### (38) July 14, 2021
 Codewars day (612). Natours CSS project. Deep dive into CSS behind the scenes.  
-TIL: [CSS Inheritance, Cascade, and Specificity](http://web.simmons.edu/~grovesd/comm244/notes/week4/css-concepts), [CSS value processing]()  
+TIL: [CSS Inheritance, Cascade, and Specificity](http://web.simmons.edu/~grovesd/comm244/notes/week4/css-concepts), [CSS value processing](https://www.w3.org/TR/css-cascade-3/#value-stages)  
 T: JS, CSS
 ### (37) July 13, 2021
 Codewars day (532, solved one lvl 4). Natours CSS project.  
