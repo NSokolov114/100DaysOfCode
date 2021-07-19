@@ -1,9 +1,10 @@
 # 100DaysOfCode - Log
 
 
-
+### (42) July 18, 2021
+Sunday break.
 ### (41) July 17, 2021
-Saturday break, doing some Codewars.
+Codewars dive (950).
 ### (40) July 16, 2021
 Codewars day (757). Natours CSS project. Sass and npm.  
 TIL: [Sass scss](https://sass-lang.com/documentation/syntax), [sass 7-1 pattern](https://sass-guidelin.es/#architecture)   
