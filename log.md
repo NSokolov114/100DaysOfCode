@@ -1,6 +1,8 @@
 # 100DaysOfCode - Log
 
-
+### (43) July 19, 2021
+Codewars dive (1155). Sudoku NxN validator and solver!  
+T: JS
 ### (42) July 18, 2021
 Sunday break.
 ### (41) July 17, 2021
