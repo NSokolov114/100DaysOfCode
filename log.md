@@ -1,7 +1,10 @@
 # 100DaysOfCode - Log
 
+### (45) July 21, 2021
+Codewars (1332). Working on JS form validation for foxminded task 3.2.  
+T: JS
 ### (44) July 20, 2021
-Codewars dive (1269). JS theory.  
+Codewars (1269). JS theory.  
 T: JS
 ### (43) July 19, 2021
 Codewars dive (1155). Sudoku NxN validator and solver!  
