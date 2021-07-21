@@ -1,5 +1,8 @@
 # 100DaysOfCode - Log
 
+### (44) July 20, 2021
+Codewars dive (1269). JS theory.  
+T: JS
 ### (43) July 19, 2021
 Codewars dive (1155). Sudoku NxN validator and solver!  
 T: JS
