@@ -16,7 +16,7 @@ T: JS
 Codewars dive (1155). Sudoku NxN validator and solver!  
 T: JS
 ### (42) July 18, 2021
-Sunday break.
+Saturday break on Sunday.
 ### (41) July 17, 2021
 Codewars dive (950).
 ### (40) July 16, 2021
