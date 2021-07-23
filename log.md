@@ -1,5 +1,7 @@
 # 100DaysOfCode - Log
 
+### (47) July 23, 2021
+Saturday break. On friday.
 ### (46) July 22, 2021
 Codewars (1347). Working on JS form validation for foxminded task 3.2.  
 TIL: [:valid and :invalid](https://www.w3schools.com/cssref/sel_valid.asp), [Constraint validation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Constraint_validation) with [examples](https://css-tricks.com/form-validation-part-1-constraint-validation-html/).  
