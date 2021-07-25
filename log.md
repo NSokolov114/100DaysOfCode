@@ -1,5 +1,9 @@
 # 100DaysOfCode - Log
 
+### (48) July 24, 2021
+Natours CSS project. CSS rotating cards.  
+TIL: [background blend mode](https://developer.mozilla.org/en-US/docs/Web/CSS/background-blend-mode), [box decoration break](https://developer.mozilla.org/en-US/docs/Web/CSS/box-decoration-break)   
+T: CSS, Scss
 ### (47) July 23, 2021
 Saturday break. On friday.
 ### (46) July 22, 2021
