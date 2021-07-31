@@ -1,5 +1,28 @@
 # 100DaysOfCode - Log
 
+
+### (54) July 30, 2021
+Saturday break on Friday.
+### (53) July 29, 2021
+Natours CSS project.  
+TIL: [responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images), [backdrop filter](https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter)   
+T: CSS, Scss
+### (52) July 28, 2021
+Natours CSS project.  
+TIL: [transform origin](https://www.w3schools.com/cssref/css3_pr_transform-origin.asp), [page on various devices](https://sizzy.co/)   
+T: CSS, Scss
+### (51) July 27, 2021
+Natours CSS project.  
+TIL: background size and position [1](https://www.w3schools.com/cssref/css3_pr_background-size.asp) & [2](https://www.w3schools.com/cssref/pr_background-position.asp), easings with graphs [1](https://easings.net/) & [2](https://cubic-bezier.com/)    
+T: CSS, Scss
+### (50) July 26, 2021
+Natours CSS project.  
+TIL: [::placeholder styles](https://www.w3schools.com/cssref/sel_placeholder.asp), [linear gradient](https://www.w3schools.com/cssref/func_linear-gradient.asp)   
+T: CSS, Scss
+### (49) July 25, 2021
+Natours CSS project.  
+TIL: [shape outside (text floating around shapes)](https://css-tricks.com/almanac/properties/s/shape-outside/), [background video](https://www.w3schools.com/tags/tag_video.asp)   
+T: CSS, Scss
 ### (48) July 24, 2021
 Natours CSS project. CSS rotating cards.  
 TIL: [background blend mode](https://developer.mozilla.org/en-US/docs/Web/CSS/background-blend-mode), [box decoration break](https://developer.mozilla.org/en-US/docs/Web/CSS/box-decoration-break)   
