@@ -1,6 +1,9 @@
 # 100DaysOfCode - Log
 
-
+### (55) July 31, 2021
+DOM theory & practice.  
+TIL: [targeting DOM elements](https://www.w3schools.com/jsref/dom_obj_style.asp)   
+T: CSS, DOM
 ### (54) July 30, 2021
 Saturday break on Friday.
 ### (53) July 29, 2021
