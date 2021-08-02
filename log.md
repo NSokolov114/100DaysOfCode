@@ -2,7 +2,7 @@
 
 ### (57) August 2, 2021
 Foxminded task 3.2. DOM theory & practice.  
-TIL: [change ::after via JS](http://jsfiddle.net/uq7ud/), [placeholder for select](https://stackoverflow.com/questions/5805059/how-do-i-make-a-placeholder-for-a-select-box)  
+TIL: [change ::after via JS](http://jsfiddle.net/uq7ud/), [placeholder for select](https://stackoverflow.com/questions/5805059/how-do-i-make-a-placeholder-for-a-select-box), [check empty input with :placeholder-shown](https://zellwk.com/blog/check-empty-input-css/)  
 T: DOM, JS
 ### (56) August 1, 2021
 DOM theory & practice.  
