@@ -1,5 +1,10 @@
 # 100DaysOfCode - Log
 
+
+### (56) August 1, 2021
+DOM theory & practice.  
+TIL: [input date](https://developer.mozilla.org/ru/docs/Web/HTML/Element/Input/date), changing dates [1](https://stackoverflow.com/questions/11526504/minimum-and-maximum-date), [2](https://stackoverflow.com/questions/492994/compare-two-dates-with-javascript), [3](https://stackoverflow.com/questions/3674539/incrementing-a-date-in-javascript/3674550), [4](https://stackoverflow.com/questions/38701847/how-can-i-convert-a-date-into-an-integer)  
+T: DOM, JS
 ### (55) July 31, 2021
 DOM theory & practice.  
 TIL: [targeting DOM elements](https://www.w3schools.com/jsref/dom_obj_style.asp)   
