@@ -1,6 +1,9 @@
 # 100DaysOfCode - Log
 
-
+### (57) August 2, 2021
+Foxminded task 3.2. DOM theory & practice.  
+TIL: [change ::after via JS](http://jsfiddle.net/uq7ud/), [placeholder for select](https://stackoverflow.com/questions/5805059/how-do-i-make-a-placeholder-for-a-select-box)  
+T: DOM, JS
 ### (56) August 1, 2021
 DOM theory & practice.  
 TIL: [input date](https://developer.mozilla.org/ru/docs/Web/HTML/Element/Input/date), changing dates [1](https://stackoverflow.com/questions/11526504/minimum-and-maximum-date), [2](https://stackoverflow.com/questions/492994/compare-two-dates-with-javascript), [3](https://stackoverflow.com/questions/3674539/incrementing-a-date-in-javascript/3674550), [4](https://stackoverflow.com/questions/38701847/how-can-i-convert-a-date-into-an-integer)  
