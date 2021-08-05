@@ -1,7 +1,9 @@
 # 100DaysOfCode - Log
 
-
-### (57) August 3, 2021
+### (59) August 4, 2021
+html+css+js vertical image slider  
+T: DOM, JS, CSS
+### (58) August 3, 2021
 JS course on Udemy.  
 TIL: [console.table()](https://developer.mozilla.org/en-US/docs/Web/API/console/table)  
 T: DOM, JS
