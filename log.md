@@ -1,5 +1,10 @@
 # 100DaysOfCode - Log
 
+
+### (57) August 3, 2021
+JS course on Udemy.  
+TIL: [console.table()](https://developer.mozilla.org/en-US/docs/Web/API/console/table)  
+T: DOM, JS
 ### (57) August 2, 2021
 Foxminded task 3.2. DOM theory & practice.  
 TIL: [change ::after via JS](http://jsfiddle.net/uq7ud/), [placeholder for select](https://stackoverflow.com/questions/5805059/how-do-i-make-a-placeholder-for-a-select-box), [check empty input with :placeholder-shown](https://zellwk.com/blog/check-empty-input-css/)  
