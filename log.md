@@ -5,6 +5,10 @@ T: DOM, JS, CSS
 ### (65) August 10, 2021
 Codewars day (1548)  
 T: JS
+
+### (60) August 5, 2021
+Codewars day (1451)  
+T: JS
 ### (59) August 4, 2021
 html+css+js vertical image slider  
 T: DOM, JS, CSS
