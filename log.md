@@ -2,6 +2,9 @@
 ### (66) August 11, 2021
 Sent task 3.3 foxminded (img carousel with JS with progress bar and modal window)  
 T: DOM, JS, CSS
+### (65) August 10, 2021
+Codewars day (1548)  
+T: JS
 ### (59) August 4, 2021
 html+css+js vertical image slider  
 T: DOM, JS, CSS
