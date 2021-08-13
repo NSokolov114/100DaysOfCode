@@ -1,4 +1,10 @@
 # 100DaysOfCode - Log
+
+
+### (67) August 12, 2021
+Codewars (1590). Carousels.  
+TIL: [DOM style.filter property](https://www.geeksforgeeks.org/html-dom-style-filter-property/), [DOM remove event listener](https://www.w3schools.com/jsref/met_document_removeeventlistener.asp)   
+T: DOM, JS
 ### (66) August 11, 2021
 Sent task 3.3 foxminded (img carousel with JS with progress bar and modal window)  
 T: DOM, JS, CSS
