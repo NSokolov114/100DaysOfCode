@@ -1,6 +1,10 @@
 # 100DaysOfCode - Log
 
 
+### (68) August 13, 2021
+Fixed task 3.3. foxminded. Researching Freelance opportunities.  
+TIL: [adding new element to DOM](https://www.tutorialspoint.com/how-to-add-a-new-element-to-html-dom-in-javascript), [cloning element in DOM](https://gomakethings.com/how-to-copy-or-clone-an-element-with-vanilla-js/)   
+T: DOM, JS
 ### (67) August 12, 2021
 Codewars (1590). Carousels.  
 TIL: [DOM style.filter property](https://www.geeksforgeeks.org/html-dom-style-filter-property/), [DOM remove event listener](https://www.w3schools.com/jsref/met_document_removeeventlistener.asp)   
