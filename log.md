@@ -2,7 +2,10 @@
 
 
 ### (76) August 21, 2021
-PSD to HTML CSS practice.  
+[PSD to HTML CSS practice](https://www.youtube.com/channel/UCedskVwIKiZJsO8XdJdLKnA)   
+T: CSS, BEM, flexbox
+### (75) August 20, 2021
+[PSD to HTML CSS practice](https://www.youtube.com/channel/UCedskVwIKiZJsO8XdJdLKnA)  
 T: CSS, BEM, flexbox
 ### (68) August 13, 2021
 Fixed task 3.3. foxminded. Researching Freelance opportunities.  
