@@ -10,6 +10,9 @@ T: CSS, BEM, flexbox
 ### (74) August 19, 2021
 [Sass (scss) layouts practice](https://www.youtube.com/channel/UCedskVwIKiZJsO8XdJdLKnA)  
 T: CSS, BEM, scss
+### (73) August 18, 2021
+Codewars (1624). Researching UpWork.  
+T: JS
 
 ### (68) August 13, 2021
 Fixed task 3.3. foxminded. Researching Freelance opportunities.  
