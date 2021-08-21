@@ -1,6 +1,9 @@
 # 100DaysOfCode - Log
 
 
+### (76) August 21, 2021
+PSD to HTML CSS practice.  
+T: CSS, BEM, flexbox
 ### (68) August 13, 2021
 Fixed task 3.3. foxminded. Researching Freelance opportunities.  
 TIL: [adding new element to DOM](https://www.tutorialspoint.com/how-to-add-a-new-element-to-html-dom-in-javascript), [cloning element in DOM](https://gomakethings.com/how-to-copy-or-clone-an-element-with-vanilla-js/)   
