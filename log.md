@@ -1,6 +1,7 @@
 # 100DaysOfCode - Log
 
-
+### (77) August 22, 2021
+Tech break on Sunday  
 ### (76) August 21, 2021
 [PSD to HTML CSS practice](https://www.youtube.com/channel/UCedskVwIKiZJsO8XdJdLKnA)   
 T: CSS, BEM, flexbox
