@@ -1,5 +1,8 @@
 # 100DaysOfCode - Log
 
+### (78) August 23, 2021
+OOP, OOP in JS, constructor functions, new keyword, prototype, prototypal inheritance.
+T: OOP, JS  
 ### (77) August 22, 2021
 Tech break on Sunday  
 ### (76) August 21, 2021
