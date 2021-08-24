@@ -1,5 +1,8 @@
 # 100DaysOfCode - Log
 
+### (79) August 24, 2021
+OOP in JS, ES6 classes, getters and setters.
+T: OOP, JS  
 ### (78) August 23, 2021
 OOP, OOP in JS, constructor functions, new keyword, prototype, prototypal inheritance.
 T: OOP, JS  
