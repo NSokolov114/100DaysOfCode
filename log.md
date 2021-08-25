@@ -1,5 +1,12 @@
 # 100DaysOfCode - Log
 
+
+
+
+### (80) August 25, 2021
+HTML, CSS, JS, OOP.  
+TIL: [page reload](https://developer.mozilla.org/en-US/docs/Web/API/Location/reload), [CSS animations](https://fls.guru/cssanimation.html)   
+T: DOM, JS, OOP
 ### (79) August 24, 2021
 OOP in JS, ES6 classes, getters and setters.
 T: OOP, JS  
