@@ -2,7 +2,9 @@
 
 
 
-
+### (81) August 26, 2021
+HTML, CSS, JS, OOP. Codewars (1683).  
+T: DOM, JS, OOP
 ### (80) August 25, 2021
 HTML, CSS, JS, OOP.  
 TIL: [page reload](https://developer.mozilla.org/en-US/docs/Web/API/Location/reload), [CSS animations](https://fls.guru/cssanimation.html)   
