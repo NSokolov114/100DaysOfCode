@@ -1,6 +1,7 @@
 # 100DaysOfCode - Log
 
-
+### (83) August 28, 2021
+Saturday break on saturday.
 ### (82) August 27, 2021
 Saturday break on friday.
 ### (81) August 26, 2021
