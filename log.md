@@ -3,10 +3,6 @@
 ### (84) August 29, 2021
 JS + OOP  
 T: DOM, JS, OOP
-### (83) August 28, 2021
-Saturday break on saturday.
-### (82) August 27, 2021
-Saturday break on friday.
 ### (81) August 26, 2021
 HTML, CSS, JS, OOP. Codewars (1683).  
 T: DOM, JS, OOP
