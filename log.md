@@ -1,5 +1,8 @@
 # 100DaysOfCode - Log
 
+### (84) August 29, 2021
+JS + OOP  
+T: DOM, JS, OOP
 ### (83) August 28, 2021
 Saturday break on saturday.
 ### (82) August 27, 2021
