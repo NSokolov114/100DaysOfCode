@@ -1,5 +1,9 @@
 # 100DaysOfCode - Log
 
+
+### (85) August 30, 2021
+JS + OOP. Yandex task 1.  
+T: DOM, JS, OOP; CSS
 ### (84) August 29, 2021
 JS + OOP  
 T: DOM, JS, OOP
