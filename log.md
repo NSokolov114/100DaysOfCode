@@ -2,7 +2,7 @@
 
 
 ### (85) August 30, 2021
-JS + OOP. Yandex task 1.  
+JS + OOP. [Yandex frontend school](https://academy.yandex.ru/schools/frontend) test task 1.  
 T: DOM, JS, OOP; CSS
 ### (84) August 29, 2021
 JS + OOP  
