@@ -1,7 +1,7 @@
 # 100DaysOfCode - Log
 
 ### (86) August 31, 2021
-Reviewing what I've learned this month. Small notes app with localStorage and marked APIs.
+Reviewing what I've learned this month. Small notes app with localStorage and marked APIs.  
 T: DOM, JS, CSS
 ### (85) August 30, 2021
 JS + OOP. [Yandex frontend school](https://academy.yandex.ru/schools/frontend) test task 1.  
