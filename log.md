@@ -1,5 +1,9 @@
 # 100DaysOfCode - Log
 
+
+### (87) September 1, 2021
+JS + OOP  
+T: DOM, JS, OOP; CSS
 ### (86) August 31, 2021
 Reviewing what I've learned this month. Small notes app with localStorage and marked APIs.  
 T: DOM, JS, CSS
