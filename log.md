@@ -1,7 +1,9 @@
 # 100DaysOfCode - Log
 
+### (98) September 12, 2021
+Sunday break, no PC, reading some articles on the smartphone.
 ### (97) September 11, 2021
-Saturday break, no PC
+Saturday break, no PC, JS podcast
 ### (87) September 1, 2021
 JS + OOP  
 T: DOM, JS, OOP; CSS
