@@ -2,6 +2,9 @@
 
 ### (97-99) September 11-13, 2021
 Vacation. Hunting for mushrooms and drying apples.
+### (96) September 10, 2021
+Foxminded task 3.4 fixed  
+T: DOM, JS, OOP
 ### (87) September 1, 2021
 JS + OOP  
 T: DOM, JS, OOP; CSS
