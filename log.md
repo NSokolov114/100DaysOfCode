@@ -5,6 +5,9 @@ Vacation. Hunting for mushrooms and drying apples.
 ### (96) September 10, 2021
 Foxminded task 3.4 fixed  
 T: DOM, JS, OOP
+### (95) September 9, 2021
+Foxminded task 3.4 completed  
+T: DOM, JS, OOP
 ### (87) September 1, 2021
 JS + OOP  
 T: DOM, JS, OOP; CSS
