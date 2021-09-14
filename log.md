@@ -13,10 +13,10 @@ T: DOM, JS, OOP
 Codewars day (1731) - katas for OOP and objects  
 T: JS, OOP
 ### (93) September 7, 2021
-JS + OOP: finishing Mapty project  
+JS + OOP: finishing Mapty project. [Function.prototype.bind()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind)  
 T: DOM, JS, OOP
 ### (92) September 6, 2021
-JS + OOP: Mapty project  
+JS + OOP: Mapty project. [focus()](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/focus), [closest()](https://www.w3schools.com/jsref/met_element_closest.asp)  
 T: DOM, JS, OOP; CSS
 ### (87) September 1, 2021
 JS + OOP  
