@@ -12,6 +12,9 @@ T: DOM, JS, OOP
 ### (94) September 8, 2021
 Codewars day (1731) - katas for OOP and objects  
 T: JS, OOP
+### (93) September 7, 2021
+JS + OOP: finishing Mapty project  
+T: DOM, JS, OOP; CSS
 ### (87) September 1, 2021
 JS + OOP  
 T: DOM, JS, OOP; CSS
