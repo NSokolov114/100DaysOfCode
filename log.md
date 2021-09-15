@@ -21,6 +21,9 @@ T: DOM, JS, OOP; CSS
 ### (91) September 5, 2021
 JS + OOP: Mapty project. [Leaflet - free maps](https://leafletjs.com) !!  
 T: DOM, JS, OOP; CSS
+### (90) September 4, 2021
+JS + OOP: Mapty project. [User stories](https://www.atlassian.com/agile/project-management/user-stories), [Private class fields](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Private_class_fields)  
+T: DOM, JS, OOP; CSS
 ### (87) September 1, 2021
 JS + OOP  
 T: DOM, JS, OOP; CSS
