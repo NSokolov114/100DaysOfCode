@@ -1,8 +1,8 @@
 # 100DaysOfCode - Log
 
 =================================================
-### (97-100) September 11-14, 2021
-Vacation! Hunting for mushrooms and drying apples.
+### (97-101) September 11-15, 2021
+Vacation! Hunting for mushrooms and drying apples and tomatoes.
 ### (96) September 10, 2021
 Foxminded task 3.4 fixed  
 T: DOM, JS, OOP
