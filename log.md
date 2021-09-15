@@ -24,6 +24,8 @@ T: DOM, JS, OOP; CSS
 ### (90) September 4, 2021
 JS + OOP: Mapty project. [User stories](https://www.atlassian.com/agile/project-management/user-stories), [Private class fields](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Private_class_fields)  
 T: DOM, JS, OOP; CSS
+### (88-89) September 2-3
+A short trip, not much PC time.
 ### (87) September 1, 2021
 JS + OOP  
 T: DOM, JS, OOP; CSS
@@ -36,7 +38,7 @@ T: DOM, JS, OOP; CSS
 ### (84) August 29, 2021
 JS + OOP  
 T: DOM, JS, OOP
-### (81) August 26, 2021
+### (81-83) August 26-28
 HTML, CSS, JS, OOP. Codewars (1683).  
 T: DOM, JS, OOP
 ### (80) August 25, 2021
@@ -63,7 +65,9 @@ T: CSS, BEM, scss
 ### (73) August 18, 2021
 Codewars (1624). Researching UpWork.  
 T: JS
-
+### (69-72) August 14-17
+Practicing creating layouts and implementing them  
+T: CSS, BEM, scss, Js
 ### (68) August 13, 2021
 Fixed task 3.3. foxminded. Researching Freelance opportunities.  
 TIL: [adding new element to DOM](https://www.tutorialspoint.com/how-to-add-a-new-element-to-html-dom-in-javascript), [cloning element in DOM](https://gomakethings.com/how-to-copy-or-clone-an-element-with-vanilla-js/)   
