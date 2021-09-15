@@ -18,6 +18,9 @@ T: DOM, JS, OOP
 ### (92) September 6, 2021
 JS + OOP: Mapty project. [focus()](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/focus), [closest()](https://www.w3schools.com/jsref/met_element_closest.asp)  
 T: DOM, JS, OOP; CSS
+### (91) September 5, 2021
+JS + OOP: Mapty project. [Leaflet - free maps](https://leafletjs.com) !!  
+T: DOM, JS, OOP; CSS
 ### (87) September 1, 2021
 JS + OOP  
 T: DOM, JS, OOP; CSS
