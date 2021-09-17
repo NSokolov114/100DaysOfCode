@@ -1,5 +1,7 @@
 # 100DaysOfCode - Log
-
+### (95) September 9, 2021
+Working on weather app. Foxminded task 3.5  
+T: DOM, async JS, AJAX, API
 =================================================
 ### (97-101) September 11-15, 2021
 Vacation! Hunting for mushrooms and drying apples and tomatoes.
