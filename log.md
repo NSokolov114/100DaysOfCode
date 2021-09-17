@@ -1,5 +1,5 @@
 # 100DaysOfCode - Log
-### (95) September 9, 2021
+### (2.0) September 16, 2021
 Working on weather app. Foxminded task 3.5  
 T: DOM, async JS, AJAX, API
 =================================================
