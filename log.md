@@ -1,5 +1,8 @@
 # 100DaysOfCode - Log
 
+### (2.1) September 18, 2021  
+RSSchool tests: markdown&git, html&css&git, rss, html-basics, css-basics, fe-dev-basics  
+T: HTML, CSS, JS  
 ### (2.0) September 17, 2021  
 Working on weather app. Foxminded task 3.5  
 T: DOM, async JS, AJAX, API  
