@@ -2,8 +2,8 @@
 
 
 ### (2.2) September 19, 2021  
-AJAX: XMLHttpRequest, fetch API
-[Huge list of public APIs](https://github.com/public-apis/public-apis), [API with info about countries](https://restcountries.com), [forward/reverse geocoding](https://geocode.xyz/)
+AJAX: XMLHttpRequest, fetch API  
+[Huge list of public APIs](https://github.com/public-apis/public-apis), [API with info about countries](https://restcountries.com), [forward/reverse geocoding](https://geocode.xyz/)  
 T: DOM, async JS, AJAX, API 
 ### (2.1) September 18, 2021  
 RSSchool tests: markdown&git, html&css&git, rss, html-basics, css-basics, fe-dev-basics  
