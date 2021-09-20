@@ -1,17 +1,18 @@
 # 100DaysOfCode - Log
 
-
-### (2.2) September 19, 2021  
+### (105) September 20, 2021  
+Codewars (1773) for RSSchool, AJAX, API  
+T: JS, AJAX, API
+### (104) September 19, 2021  
 AJAX: XMLHttpRequest, fetch API  
 [Huge list of public APIs](https://github.com/public-apis/public-apis), [API with info about countries](https://restcountries.com), [forward/reverse geocoding](https://geocode.xyz/)  
 T: DOM, async JS, AJAX, API 
-### (2.1) September 18, 2021  
+### (103) September 18, 2021  
 RSSchool tests: markdown&git, html&css&git, rss, html-basics, css-basics, fe-dev-basics  
 T: HTML, CSS, JS  
-### (2.0) September 17, 2021  
+### (102) September 17, 2021  
 Working on weather app. Foxminded task 3.5  
 T: DOM, async JS, AJAX, API  
-
 ### (97-101) September 11-16, 2021
 Vacation! Hunting for mushrooms and drying apples and tomatoes.
 ### (96) September 10, 2021
