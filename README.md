@@ -3,6 +3,8 @@
 That's my Log of the #100DaysOfCode Challenge. You can find the link to the official site created by [Alex](https://twitter.com/ka11away) for the challenge [here](http://100daysofcode.com/). There's link for the group in [Twitter](https://twitter.com/_100DaysOfCode).
 
 ## Log
+### Done. Archived.
+New iteration of the challenge, as well as links to resources can be found [here](https://github.com/NSokolov114/180DaysOfCode/blob/main/README.md).
 
 ### (100) September 14, 2021  
 Codewars (1773) for RSSchool, AJAX, API  
